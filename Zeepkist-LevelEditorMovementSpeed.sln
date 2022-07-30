@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist-LevelEditorMovementSpeed", "Zeepkist-LevelEditorMovementSpeed\Zeepkist-LevelEditorMovementSpeed.csproj", "{43078F3F-50B3-41F2-8D84-DCD723B21238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43078F3F-50B3-41F2-8D84-DCD723B21238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43078F3F-50B3-41F2-8D84-DCD723B21238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43078F3F-50B3-41F2-8D84-DCD723B21238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43078F3F-50B3-41F2-8D84-DCD723B21238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
